@@ -1,0 +1,32 @@
+Package: com.robust-shtm.wcsplit
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Robust
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.robust-shtm.wcsplit_1.0.2_iphoneos-arm64_rootless.deb
+Size: 57008
+MD5sum: a34e8aedad775465831d27ea49cbad57
+SHA1: 45f7084d0ab8b43c49439b85f5096b64cd6fd825
+SHA256: d172677752d67d80c52b38beef08b97569d2d05c3410a9ad2009f6a8b7a0e483
+Section: Tweaks
+Description: 微信内场景分屏免费插件
+Author: Robust
+Name: WCSplit
+
+Package: com.robust-shtm.wcsplit
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Robust
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.robust-shtm.wcsplit_1.0.2_iphoneos-arm_rootful.deb
+Size: 57244
+MD5sum: e58e2d88ba3e76c9f84b9eaae5959be4
+SHA1: 795621daa606e72356560e8bd0e2d6de4be0f048
+SHA256: fd110e9bfa0d66cf4043a5f0d8f6a0492646881bc2a833d8633e123ec9d66024
+Section: Tweaks
+Description: 微信内场景分屏免费插件
+Author: Robust
+Name: WCSplit
+
