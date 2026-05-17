@@ -5,10 +5,10 @@ Maintainer: Robust
 Installed-Size: 248
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.robust-shtm.wcsplit_1.0.9_iphoneos-arm64_rootless.deb
-Size: 68212
-MD5sum: ed233f66f2417bdbd2ce6b0008a33286
-SHA1: a017d6de32d053db63f49e9cb279619bd14e4b50
-SHA256: 10eb7af8b715f7d0ef0fa39d5c48a94e0ffad58d4eb9573929d2dc2cb64bca8b
+Size: 68462
+MD5sum: 1332897201df921a3a3ad1e6577d8547
+SHA1: 48387d9c289c1da19ebed5b858296caa57f6196d
+SHA256: e1bbfd4cbea34e88986f5cbea2ce886417674a6e621db765596909db8dcb56f4
 Section: Tweaks
 Description: 微信内场景分屏免费插件
 Author: Robust
@@ -21,10 +21,10 @@ Maintainer: Robust
 Installed-Size: 248
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.robust-shtm.wcsplit_1.0.9_iphoneos-arm_rootful.deb
-Size: 67974
-MD5sum: 6d39b5824d714265c76b89cad7d73d7d
-SHA1: efc8d8bbc3b75195e654d1681e7aa498fa9807fc
-SHA256: 501c476208816ae80fefbcb43cd6671a616b67a435896d2fc130fa9e01edea7c
+Size: 68468
+MD5sum: c8e8f264f93ae53326ff36acd136dcaf
+SHA1: 5c0ff9f77d505e675449373ac5ea820db2401224
+SHA256: 56a47eb484ed1f11276eb4e17116b47cf580de0872bd8caa4b4d8b233180173c
 Section: Tweaks
 Description: 微信内场景分屏免费插件
 Author: Robust
